@@ -16,11 +16,11 @@ $ docker build -t civ .t
 $ docker run -p 8080:8080 civ
 
 In your browser go to:
-http://localhost:8080/vnc.html 
+http://localhost:8080/vnc_lite.html 
 
 In DosBox:
 
 Z:\> mount c /root/dos/civ
 
-C:\> civ
+C:\> pkunzip civ.zip
 
