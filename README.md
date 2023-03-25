@@ -1,6 +1,7 @@
 # Sid Meier's Civilization 1 (1991)
 
 Sid Meier Civilization 1 in DosBox in a Docker container.
+According to https://www.myabandonware.com/game/sid-meier-s-civilization-1nj it's abandonware, so all good to deploy.
 
 # DEPLOY
 First, clone repo, then:
