@@ -3,13 +3,13 @@
 Sid Meier Civilization 1 in DosBox in a Docker container.
 
 # DEPLOY
-# First, clone repo, then:
+First, clone repo, then:
 
 $ docker build -t dosbox .t
 
 $ docker run -p 8080:8080 dosbox
 
-# In your browser go to:
+In your browser go to:
 http://localhost:8080/vnc.html 
 
 # In DosBox
