@@ -11,9 +11,9 @@ Answers to copy protection questions in the game: https://civilization.fandom.co
 # DEPLOY
 First, clone repo, then:
 
-$ docker build -t dosbox .t
+$ docker build -t civ .t
 
-$ docker run -p 8080:8080 dosbox
+$ docker run -p 8080:8080 civ
 
 In your browser go to:
 http://localhost:8080/vnc.html 
