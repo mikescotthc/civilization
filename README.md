@@ -2,7 +2,7 @@
 
 Sid Meier Civilization 1 in DosBox in a Docker container.
 
-[b]To deploy[/b]
+# DEPLOY
 # First, clone repo, then:
 
 $ docker build -t dosbox .t
