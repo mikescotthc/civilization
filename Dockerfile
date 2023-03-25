@@ -13,3 +13,6 @@ COPY dosbox.conf /app/conf.d/
 # Add Civilization ...
 COPY civ.zip /root/dos/civ/civ.zip
 
+# Add Unzip programme for install
+COPY PK250DOS.EXE /root/dos/civ/PK250DOS.EXE
+
