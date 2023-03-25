@@ -22,5 +22,11 @@ In DosBox:
 
 Z:\> mount c /root/dos/civ
 
+C:\> pk250dos.exe
+
 C:\> pkunzip civ.zip
+
+C:\> civ
+
+ENJOY
 
