@@ -13,6 +13,7 @@ In your browser go to:
 http://localhost:8080/vnc.html 
 
 In DosBox:
+
 Z:\> mount c /root/dos/civ
 
 C:\> civ
