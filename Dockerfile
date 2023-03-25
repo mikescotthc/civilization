@@ -11,5 +11,5 @@ ENV DISPLAY_HEIGHT=1536
 COPY dosbox.conf /app/conf.d/
 
 # Add Civilization ...
-COPY /civ /root/dos/civ
+COPY civ.zip /root/dos/civ
 
