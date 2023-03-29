@@ -21,7 +21,9 @@ http://localhost:8080/vnc_lite.html
 In DosBox (first login only) - you'll see that Civ fails to open - because it's not yet been installed. First run the following:
 
 Z:\> c:
+
 C:\> pk250dos.exe
+
 C:\> pkunzip civ.zip
 
 Then
