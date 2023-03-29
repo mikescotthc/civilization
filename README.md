@@ -18,15 +18,16 @@ $ docker run -p 8080:8080 civ
 In your browser go to:
 http://localhost:8080/vnc_lite.html 
 
-In DosBox:
+In DosBox (first login only) - you'll see that Civ fails to open - because it's not yet been installed. First run the following:
 
-Z:\> mount c /root/dos/civ
-
+Z:\> c:
 C:\> pk250dos.exe
-
 C:\> pkunzip civ.zip
 
+Then
 C:\> civ
+
+Next restart will start automatically
 
 ENJOY
 
