@@ -11,7 +11,7 @@ Answers to copy protection questions in the game: https://civilization.fandom.co
 # DEPLOY
 First, clone repo, then:
 
-$ docker build -t civ .t
+$ docker build -t civ .
 
 $ docker run -p 8080:8080 civ
 
@@ -28,8 +28,6 @@ C:\> pkunzip civ.zip
 
 Then
 C:\> civ
-
-Next restart will start automatically
 
 ENJOY
 
